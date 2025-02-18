@@ -1,2 +1,2 @@
-# garbage-collector
-garbage collector for 42 projects
+# Garbage collector
+Garbage collector for 42 projects
