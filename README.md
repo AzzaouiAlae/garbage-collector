@@ -1,7 +1,3 @@
-Below is an improved version of your README with a clearer structure, enhanced language, and more detailed instructions:
-
----
-
 # Garbage Collector
 
 A lightweight garbage collector for 42 projects written in C.  
