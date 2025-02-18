@@ -104,7 +104,7 @@ void example()
 {
     // Allocate memory for an array of 10 integers
     int *nums = ft_calloc(10, sizeof(int));
-    // you don't need to check if the it fail because it will exit
+    // you don't need to check if the calloc fail because it will exit
     /*if (!nums)
         return (1);*/
 
